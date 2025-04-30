@@ -1,4 +1,4 @@
-This is a short description about how to run this project
+Description about how to run this project
 
 Run file stream_cancer_data.py to stream data
 
